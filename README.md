@@ -9,3 +9,8 @@ CODE:
 Viability_Prediction_UPDATED.ipynb contains the code relative to the prediction of the viability dependent variable from the Graphene_for_BMD_UPDATE.csv data set.
 BMDL_Prediction_UPDATE_DR.ipynb contains the code relative to the prediction of the BMDL dependent variable from the Graphene_BMD_UPDATED_no_outliers.csv data set.
 Graohene BMDL classification.ipynb contains the code relative to the classification of the BMDL dependent variable from the Graphene_BMD_UPDATED_no_outliers.csv data set.
+
+FOR RUNNING JUPITER NOTEBOOKS:
+1. Create a new environment `python -m venv .venv`
+3. Activate the environment  `.venv/Scripts/Activate`
+2. Install the python libraries`pip install -r requirements.txt`
